@@ -1,0 +1,59 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Kader/Documents/BS-Computer Engineering/TCES 330 Digital system design/Quartus/week1/HW1/Q1
+vQ1
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 !s110 1649315230
+!i10b 1
+!s100 B`==JP2:TDJNG]^lTR?UZ1
+IL6dm=M5Pe9_d>3`L@?_ac0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 !s105 Q1_sv_unit
+S1
+R0
+Z5 w1649202144
+Z6 8./Q1.sv
+Z7 F./Q1.sv
+L0 1
+Z8 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z9 !s108 1649315230.000000
+Z10 !s107 ./Q1.sv|
+Z11 !s90 -reportprogress|300|./Q1.sv|
+!i113 1
+Z12 tCvgOpt 0
+n@q1
+vQ1_testbench
+R1
+R2
+!i10b 1
+!s100 9TK5<Rc0E^4Uz]8hiIdWS0
+IDnQ:@Ke49eI`@Jkki@G<31
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 17
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+n@q1_testbench

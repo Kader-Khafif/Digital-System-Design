@@ -1,0 +1,82 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Kader/Documents/BS-Computer Engineering/TCES 330 Digital system design/Quartus/week1/HW1/Q2
+vQ1_testbench
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+!s110 1648765750
+!i10b 1
+!s100 SS>adz:^P85@E6e_<9C4n1
+I^<F]Wo9dh?SFo_doRFSi>3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 !s105 Q2_sv_unit
+S1
+R0
+w1648765747
+Z4 8./Q2.sv
+Z5 F./Q2.sv
+L0 12
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1648765750.000000
+!s107 ./Q2.sv|
+Z7 !s90 -reportprogress|300|./Q2.sv|
+!i113 1
+Z8 tCvgOpt 0
+n@q1_testbench
+vQ2
+R1
+Z9 !s110 1649183905
+!i10b 1
+!s100 ZQL1M35`<a5l?FPlK7>1X2
+IAWM^T<<7LoAXGRdl`1m]J2
+R2
+R3
+S1
+R0
+Z10 w1649183676
+R4
+R5
+L0 1
+R6
+r1
+!s85 0
+31
+Z11 !s108 1649183905.000000
+Z12 !s107 ./Q2.sv|
+R7
+!i113 1
+R8
+n@q2
+vQ2_testbench
+R1
+R9
+!i10b 1
+!s100 W8MHQ[gE^`_VK]282@K>n3
+IFn_lce7e2=8QH8TlDd<?23
+R2
+R3
+S1
+R0
+R10
+R4
+R5
+L0 10
+R6
+r1
+!s85 0
+31
+R11
+R12
+R7
+!i113 1
+R8
+n@q2_testbench
